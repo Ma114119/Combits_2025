@@ -68,7 +68,7 @@
 
 - **Role:** Frontend Developer & UI/UX Designer
 - **Focus:** React development, UI design, animations, user experience
-- **Email:** m13211911@gmail.com
+- **Email:** ashir9706@gmail.com
 
 ---
 
@@ -527,20 +527,20 @@ We've created test accounts for you to explore the system:
 
 ### Account 1: Anas
 
-- **Email:** anas@test.com
-- **Password:** anas123
+- **Email:** anas1@test.com
+- **Password:** anas1234
 - **Role:** Can create groups, become admin/moderator
 
 ### Account 2: Ashir
 
 - **Email:** ashir@test.com
-- **Password:** ashir123
+- **Password:** ashir1234
 - **Role:** Can create groups, become admin/moderator
 
 ### Account 3: Salam
 
 - **Email:** salam@test.com
-- **Password:** salam123
+- **Password:** salam1234
 - **Role:** Can create groups, become admin/moderator
 
 **Testing Scenarios:**
